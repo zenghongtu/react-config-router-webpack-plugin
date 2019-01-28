@@ -1,0 +1,24 @@
+{
+  "name": "react-config-router-webpack-plugin",
+  "version": "0.0.1",
+  "description": "A webpack plugin for react-config-router to generate router config",
+  "author": "zenghongtu",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10.10",
+    "npm": ">=6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenghongtu/react-config-router-webpack-plugin.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/zenghongtu/react-config-router-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/zenghongtu/react-config-router-webpack-plugin#readme"
+}
